@@ -1,2 +1,1 @@
-# e18-4yp-Software-Package-To-Support-Agent-Based-Modelling
-Research 
+Supplementary figures (sensitivity analysis, hydraulic indicators) referenced in the ICEEET 2026 submission are in /paper-figures.
